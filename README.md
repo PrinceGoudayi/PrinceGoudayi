@@ -111,12 +111,12 @@ A free public tool that tells students how AI is reshaping the degree they're ab
 ## 📊 GitHub in numbers
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MELIODAS389012&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MELIODAS389012&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&cache_seconds=86400" alt="stats" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=MELIODAS389012&hide_border=true&theme=tokyonight" alt="streak" />
 </div>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MELIODAS389012&layout=compact&hide_border=true&theme=tokyonight&langs_count=10" alt="top langs" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MELIODAS389012&layout=compact&hide_border=true&theme=tokyonight&langs_count=10&cache_seconds=86400" alt="top langs" />
 </div>
 
 <div align="center">
