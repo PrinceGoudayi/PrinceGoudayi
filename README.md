@@ -29,7 +29,7 @@ Right now I'm going deep on APIs and gateways — the layer everything else sits
 The student and instructor interfaces of a production education platform. I fix real defects reported by real users, and I own the front-end unit-test suite so regressions don't reach release.
 
 **Horus @ Teamup** · *Front-End Lead*
-A free public tool that tells students how AI is reshaping the degree they're about to pay for. It cross-references **1,247 university majors** against **52,318 O\*NET task records** and the **Anthropic Economic Index**, sorting every required course into automating, transforming, or untouched. I owned the component architecture and the design system for a distributed student team, and we shipped on schedule.
+A free public tool that tells students how AI is reshaping the degree they're about to pay for. It reads **11,320 course entries** across **285 degree programmes**, matching published course objectives against O\*NET skill data and the **Anthropic Economic Index** to sort what each degree teaches into automating, transforming, or untouched. Live at [horus.teamup.org](https://horus.teamup.org). I owned the component architecture and the design system for a distributed student team, and we shipped on schedule.
 
 The engineering was the straightforward half. Turning that much research data into something a seventeen-year-old understands in thirty seconds was the hard half.
 
