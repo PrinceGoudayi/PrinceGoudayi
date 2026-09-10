@@ -1,4 +1,4 @@
-# Jaïrius Prince Goudayi
+# Prince Goudayi
 
 **Front-end developer, Cotonou, Benin.** I build products end to end and then make them legible to the people who didn't build them.
 
@@ -70,4 +70,4 @@ The engineering was the straightforward half. Turning that much research data in
 
 ## 🤝 Reach me
 
-[LinkedIn](https://www.linkedin.com/in/jairius-prince-goudayi) · [prince.goudayi@epitech.eu](mailto:prince.goudayi@epitech.eu) · [iwey.school](https://iwey.school)
+[LinkedIn](https://www.linkedin.com/in/prince-goudayi) · [prince.goudayi@epitech.eu](mailto:prince.goudayi@epitech.eu) · [iwey.school](https://iwey.school)
